@@ -1,0 +1,84 @@
+html {
+	min-height: 100%;
+	
+
+}
+
+body {
+	font-family: 'Raleway', sans-serif;
+	color:rgba(0,0,0, .5);
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: .5em;
+	top:15%;
+	min-height: 100%;
+	background: linear-gradient(to right,#a8a857, #f70968);
+
+
+}
+
+h1 {
+	font:600 3.5em 'Raleway' sans-serif;
+	color:rgba(0,0,0, .5);
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: .5em;
+	width: 100%;
+
+}
+
+input[type="color"] {
+	margin-bottom: 30px;
+}
+
+select {
+	margin-bottom: 15px;
+	font: inherit;
+	color:rgba(0,0,0, .5);
+	background-color: black;
+	color: #a8a857;
+	font-weight: bold;
+	border:2px solid black;
+	border-radius: 5px;
+	
+}
+
+h3 {
+	margin: 40px 0;
+	font: 900 1em 'Raleway' sans-serif;
+	color:rgba(0,0,0, .5);
+	text-align: center;
+	text-transform: none;
+	letter-spacing: .1em;
+	
+}
+
+h3:hover {
+	color: white;
+	cursor: pointer;
+}
+
+button {
+	background-color: black;
+	color: #a8a857;
+	width: 15em;
+	font-size: 1.2em;
+	font-weight: bold;
+	border:2px solid black;
+	border-radius: 5px;
+
+
+}
+
+input[type="text"] {
+	margin: 40px auto;
+	font: inherit;
+	color:rgba(0,0,0, .5);
+	text-align: center;
+	letter-spacing: .1em;
+	display: block;
+	width: 550px;
+	
+	
+}
+
